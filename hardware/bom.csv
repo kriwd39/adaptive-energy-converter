@@ -1,0 +1,9 @@
+Component,Quantity,Manufacturer,Part Number,Supplier Link
+Resistor 10k,2,Generic,RES-10K,https://www.digikey.com/
+Op-amp IC,1,TI,LM358,https://www.digikey.com/
+Capacitor 10uF,2,Generic,CAP-10UF,https://www.digikey.com/
+Inductor 100uH,1,Generic,IND-100UH,https://www.digikey.com/
+MOSFET N-Channel,1,Infineon,IRF540,https://www.digikey.com/
+Diode Schottky,1,ST,STPS1L30,https://www.digikey.com/
+Microcontroller,1,Atmel,ATmega328P,https://www.digikey.com/
+Voltage Regulator,1,TI,LM7805,https://www.digikey.com/
