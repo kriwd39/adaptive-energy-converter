@@ -1,0 +1,4 @@
+# KiCad Project File
+version = 1
+board = "adaptive-energy-converter.kicad_pcb"
+schematic = "adaptive-energy-converter.kicad_sch"
